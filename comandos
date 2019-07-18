@@ -1,3 +1,5 @@
 -Create a new Branch:
 	$ git branch 'nombre_de_la_rama'(crea nueva rama y hay que cambiar de forma manual)
 	$ git checkout -b 'branch_name' (crea nueva rama y te la cambia directamente)
+-Switch branch:
+	$ git checkout 'branch_name'
