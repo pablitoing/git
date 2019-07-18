@@ -3,3 +3,7 @@
 	$ git checkout -b 'branch_name' (crea nueva rama y te la cambia directamente)
 -Switch branch:
 	$ git checkout 'branch_name'
+-Rename a branch:
+	$ git branch -m 'current_branch_name' 'new_branch_name'
+-Delete a branch:
+	$ git branch -d 'branch_name'
